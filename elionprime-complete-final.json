@@ -1,0 +1,47 @@
+{
+  "tokenInfo": {
+    "network": "MAINNET",
+    "mintAddress": "8TVwpBf9RxRLGz5pSYZJ4h95z6xNUdw7FModB3B95FQK",
+    "name": "ElionPrime",
+    "symbol": "ELION",
+    "supply": 100000000,
+    "decimals": 9,
+    "logoUrl": "https://raw.githubusercontent.com/testnetso/elionprime/refs/heads/main/logoelionprime.png",
+    "website": "https://elionprime.com",
+    "taxConfigured": false
+  },
+  "walletInfo": {
+    "publicKey": "B6yBoto33sagRVuncUHpkyDM1RNVD7bL2naYB2KYM2xY",
+    "privateKey": "6edddb1ffdba66221b070b602a8e491072b628cc75c843e3be407daa7c365b99961c4dad045466cc1d14ec9d08d7ff82f1f30b7e7c8f37b1aad2d311caaa5349",
+    "currentBalance": "0.061329 SOL"
+  },
+  "socialLinks": {
+    "name": "ElionPrime",
+    "symbol": "ELION",
+    "description": "Token oficial de ElionPrime.com - Ecosistema DeFi innovador con 1% tax en transferencias para desarrollo y marketing. 100M supply con burn y mint controlado.",
+    "website": "https://elionprime.com",
+    "twitter": "https://x.com/ElionPrime101",
+    "telegram": "https://t.me/elionprime",
+    "youtube": "https://www.youtube.com/@ElionPrime.com1",
+    "logoUrl": "https://raw.githubusercontent.com/testnetso/elionprime/refs/heads/main/logoelionprime.png",
+    "supply": 100000000,
+    "decimals": 9,
+    "taxConfig": {
+      "enabled": true,
+      "taxPercent": 1,
+      "maxFeeTokens": 1000000,
+      "taxWallet": "B6yBoto33sagRVuncUHpkyDM1RNVD7bL2naYB2KYM2xY",
+      "purpose": "Development, Marketing & Operations"
+    }
+  },
+  "explorerLinks": {
+    "solanaExplorer": "https://explorer.solana.com/address/8TVwpBf9RxRLGz5pSYZJ4h95z6xNUdw7FModB3B95FQK",
+    "solscan": "https://solscan.io/token/8TVwpBf9RxRLGz5pSYZJ4h95z6xNUdw7FModB3B95FQK"
+  },
+  "nextSteps": {
+    "updateMetadata": "https://studio.metaplex.com/",
+    "addToJupiter": "https://github.com/jup-ag/token-list",
+    "addTax": "https://www.smithii.io/create-tax-token-solana"
+  },
+  "createdAt": "2025-09-26T13:15:07.319Z"
+}
